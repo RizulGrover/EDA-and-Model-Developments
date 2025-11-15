@@ -5,6 +5,10 @@ End-to-end data analysis and predictive modeling on King County housing dataset.
 
 This project is part of my data analysis learning journey. I worked through an end-to-end workflow using the King County House Sales dataset (2014–2015). The goal was to explore the data, build predictive models, and understand what features influence house prices.
 
+Here is the Dataset overview-  
+<img width="835" height="664" alt="image" src="https://github.com/user-attachments/assets/e8521482-37b9-4081-8f06-4067cc0e3238" />
+
+
 ## What I Did
 - Imported and understood the dataset  
 - Cleaned the data and handled missing values  
@@ -37,6 +41,10 @@ The dataset contains house sale prices across King County, including Seattle.
 
 ## What I Learned
 This project helped me practice real-world data analysis steps — cleaning data, EDA, model building, and evaluation. It also gave me a good understanding of how regression models behave with different feature combinations.
+
+Here is the Final result in the form of a DataFrame-  
+<img width="1224" height="194" alt="image" src="https://github.com/user-attachments/assets/3fbe2222-e7e9-4b20-b116-fa923a5026bf" />
+
 
 ## Notebook
 The complete notebook is included in this repository.
